@@ -1,0 +1,23 @@
+{
+  "name": "node-tlant-logging",
+  "version": "0.0.1",
+  "description": "nodejs logging logstash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Andre Pinto"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^1.0.0",
+    "winston-logstash": "^0.2.11"
+  },
+  "gitHead": "964492ce72e5f668bac6d99a18c3dc67495f912c",
+  "readme": "ERROR: No README data found!",
+  "_id": "node-tlant-logging@0.0.1",
+  "_shasum": "b5582ae808e0e13eb7bdced48c8d5d8b1bacec5a",
+  "_from": "git+https://github.com/Tlantic/node-tlant-logging.git#master",
+  "_resolved": "git+https://github.com/Tlantic/node-tlant-logging.git#964492ce72e5f668bac6d99a18c3dc67495f912c"
+}
