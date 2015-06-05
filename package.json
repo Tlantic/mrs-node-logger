@@ -1,5 +1,5 @@
 {
-  "name": "node-tlant-logging",
+  "name": "mrs-node-logger",
   "version": "0.0.1",
   "description": "nodejs logging logstash",
   "main": "index.js",
