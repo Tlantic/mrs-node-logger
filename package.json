@@ -1,6 +1,6 @@
 {
   "name": "mrs-node-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nodejs logging logstash",
   "main": "index.js",
   "scripts": {
