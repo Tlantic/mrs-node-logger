@@ -10,7 +10,6 @@
     "name": "Andre Pinto"
   },
   "license": "ISC",
-  "license": "ISC",
   "dependencies": {
    "winston": "^1.0.0",
    "winston-logstash": "^0.2.11",
