@@ -13,6 +13,7 @@
   "dependencies": {
    "winston": "^1.0.0",
    "winston-logstash": "^0.2.11",
-   "express-winston":"0.3.1"
+   "express-winston":"0.3.1",
+    "uuid":"^2.0.1"
   }
 }
